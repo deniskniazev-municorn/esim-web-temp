@@ -1,0 +1,6 @@
+version:0
+plurals|countries|ZERO:Y291bnRyaWVz,ONE:Y291bnRyeQ==,FEW:Y291bnRyaWVz,MANY:Y291bnRyaWVz,OTHER:Y291bnRyaWVz
+plurals|days_tpl|ZERO:JTEkZCBkYXlz,ONE:JTEkZCBkYXk=,FEW:JTEkZCBkYXlz,MANY:JTEkZCBkYXlz,OTHER:JTEkZCBkYXlz
+plurals|days|ZERO:ZGF5cw==,ONE:ZGF5,FEW:ZGF5cw==,MANY:ZGF5cw==,OTHER:ZGF5cw==
+plurals|every_days|ZERO:ZXZlcnkgJTEkcyBkYXlz,ONE:ZXZlcnkgJTEkcyBkYXk=,FEW:ZXZlcnkgJTEkcyBkYXlz,MANY:ZXZlcnkgJTEkcyBkYXlz,OTHER:ZXZlcnkgJTEkcyBkYXlz
+plurals|minutes_tpl|ZERO:JTEkZCBtaW51dGVz,ONE:JTEkZCBtaW51dGU=,FEW:JTEkZCBtaW51dGVz,MANY:JTEkZCBtaW51dGVz,OTHER:JTEkZCBtaW51dGVz
